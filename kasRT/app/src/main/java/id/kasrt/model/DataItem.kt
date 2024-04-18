@@ -8,6 +8,6 @@ val email: String,
 val alamat: String,
 val total_iuran_individu: Int,
 val pengeluaran_warga: Int,
-val pemanfaatan_iuran: String,
+val kegunaan_iuran: String,
 val Gambar: String
 )

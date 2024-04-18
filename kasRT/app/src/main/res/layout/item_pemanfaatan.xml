@@ -11,7 +11,7 @@
         android:gravity="start"
         android:padding="16dp"
         android:paddingStart="20dp"
-        android:text="- kerja bakti : "
+        android:text="- Siskamling : "
         android:textColor="@color/white"
         android:textSize="17sp"
         android:textStyle="bold" />

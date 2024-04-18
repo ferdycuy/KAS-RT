@@ -27,7 +27,7 @@ class PemanfaatanAdpater(private val pemanfaatan:MutableList<DataItem>) :
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
         val item = pemanfaatan[position]
 
-        holder.tvPemanfaatan.text = "-" + item.pemanfaatan_iuran + ":"
+        holder.tvPemanfaatan.text = "-" + item.kegunaan_iuran + ":"
         holder.tvTotalIuranRekap.text = item.pengeluaran_warga.toString()
     }
 

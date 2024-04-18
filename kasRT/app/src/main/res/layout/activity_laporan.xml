@@ -44,7 +44,7 @@
         android:id="@+id/pemanfaatanTextView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="2. Pemanfaatan    : "
+        android:text="2. Kegunaan    : "
         android:textSize="17sp"
         android:textStyle="bold"
         android:gravity="start"
