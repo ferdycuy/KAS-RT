@@ -33,7 +33,7 @@ class LaporanActivity : AppCompatActivity() {
 
         adapter = PemanfaatanAdpater(mutableListOf())
 
-        rv_laporan.layoutManager = LinearLayoutManager(this)
+        rv_laporan.layoutManager = LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false)
         rv_laporan.adapter = adapter
 
         getPemanfaatan()
