@@ -6,6 +6,10 @@
 | Danang Nurcahyo |  312210004 | TI.22.A.1 |
 | Rhendy Diki Nugraha | 312210150 | TI.22.A.1 |
 
+**Tutorial**<br>
+Tutorila Youtube : [*Tutorial-APP-kasRT-Youtube*](https://youtube.com/playlist?list=PLiYEX83BzXp9HkvQgeTzwZ2Eo8UflZOFe&si=gu-1iKdB4hPGOI4d)<br>
+Tutorial PDF : [*Tutorial-APP-kasRT-PDF*](https://drive.google.com/file/d/15FxaZ8k_uAQm8uKxShqEx-lFvNk4l85S/view)
+
  <p align="center">
   <b>Aplikasi Android untuk Laporan Keuangan Kas RT</b>
 </p>
