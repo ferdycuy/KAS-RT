@@ -20,7 +20,7 @@ Tutorial PDF : [*Tutorial-APP-kasRT-PDF*](https://drive.google.com/file/d/15FxaZ
 
 - **Pemahaman tentang Parsing Data JSON:** Menggali lebih dalam cara data format JSON diproses dan  dimanipulasi, yang vital dalam pengembangan aplikasi mobile.
   
-- **Penggunaan API untuk Akses Data Eksternal:** Menyelami teknik menggunakan API Spreadsheet untuk mengambil data dari Google Spreadsheet, memfasilitasi akses ke sumber data eksternal yang aman dan efisien. 
+- **Penggunaan API untuk Akses Data Eksternal:** Mendalami teknik menggunakan API Spreadsheet untuk mengambil data dari Google Spreadsheet, memfasilitasi akses ke sumber data eksternal yang aman dan efisien. 
   
 - **Implementasi Parsing Data JSON:** Melakukan implementasi praktis untuk mengekstrak data JSON dari Google Spreadsheet dan mengintegrasikannya ke dalam aplikasi Android, sehingga menghasilkan laporan keuangan yang informatif dan mudah diinterpretasi.
 
