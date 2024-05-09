@@ -7,7 +7,6 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import id.kasrt.model.DataItem
 import id.kasrt.model.ResponseUser
 import id.kasrt.network.ApiConfig
 import retrofit2.Call
